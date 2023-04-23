@@ -162,6 +162,7 @@ RESERVED_IDS = [
     "reinterpret_cast",
     "requires",
     "return",
+    "rewind",
     "short",
     "signed",
     "sizeof",
